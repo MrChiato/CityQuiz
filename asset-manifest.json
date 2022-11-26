@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CityQuiz/static/css/main.bf4e6e20.css",
+    "main.js": "/CityQuiz/static/js/main.1b3c2390.js",
+    "index.html": "/CityQuiz/index.html",
+    "main.bf4e6e20.css.map": "/CityQuiz/static/css/main.bf4e6e20.css.map",
+    "main.1b3c2390.js.map": "/CityQuiz/static/js/main.1b3c2390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf4e6e20.css",
+    "static/js/main.1b3c2390.js"
+  ]
+}
