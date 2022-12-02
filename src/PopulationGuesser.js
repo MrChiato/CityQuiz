@@ -73,7 +73,7 @@ function PopulationGuesser() {
         <p className='Text'>City: <br/> <span className='InfoText'>{city}</span> <br/> Population: <br/> <span className='InfoText'>{population.toLocaleString()}</span></p>
         <span className='ScoreText'>Correct: {correct} wrong: {wrong}</span>
         <span className='ScoreText'>Streak: {streak}</span>
-        <span id='ResultText'>Guess which country the city is located in</span>
+        <span id='ResultText'>Guess the population of the city</span>
         <div className='InputDiv'>
           {/*<input autoFocus id="GuessField" placeholder='Country..'></input>
           <button className='Button' onClick={()=>{guessCountry()}}>Guess</button>*/}
