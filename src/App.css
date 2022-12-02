@@ -1,38 +1,83 @@
+body{
+  background-color: black;
+}
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
+}
+
+.Text{
+  color: aqua;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+#ResultText{
+  color: rgb(193, 16, 178);
+  font-size: 40px;
+}
+
+.ScoreText{
+  color: royalblue;
+  font-size: 30px;
+}
+
+.InputDiv{
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width: 100%;
+  height: 60px;
+  margin-top: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.InfoText{
+  font-size: 70px;
+  font-weight: 700;
+  font-style: italic;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+#GuessField{
+  width: 30%;
+  height: 100%;
+  border: 2px solid grey;
+  border-radius: 4px;
+  margin: 2px;
+}
+
+.Button{
+  border: 2px solid blue;
+  background-color:cadetblue;
+  border-radius: 10px;
+  width: 160px;
+  height: 50px;
+  margin: 5px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+@media only screen and (max-width: 900px) {
+  #GuessField{
+    width: 70%;
   }
-  to {
-    transform: rotate(360deg);
+  .Text{
+    color: aqua;
+    font-size: 40px;
+    font-weight: 700;
+  }
+  
+  #ResultText{
+    font-size: 30px;
+  }
+  
+  .ScoreText{
+    color: royalblue;
+    font-size: 20px;
+  }
+  .Button{
+    width: 30%;
+    height: 80px;
   }
 }
