@@ -11,7 +11,11 @@ export var countries = [{
                 {city: "Chelyabinsk", population: 1189525},
                 {city: "Krasnoyarsk", population: 1187771},
                 {city: "Samara", population: 1173299},
-                {city: "Ufa", population: 1144809}
+                {city: "Ufa", population: 1144809},
+                {city: "Rostov-on-Don", population: 1142162},
+                {city: "Omsk", population: 1125695},
+                {city: "Krasnodar", population: 1099344},
+                {city: "Voronezh", population: 1057681}
             ]},
             {
                 country: "Denmark",
@@ -94,18 +98,25 @@ export var countries = [{
                     {city: "Malmö", population: 325069},
                     {city: "Uppsala", population: 166698},
                     {city: "Västerås", population: 128660},
-                    {city: "Örebro", population: 126604}
+                    {city: "Örebro", population: 126604},
+                    {city: "Linköping", population: 115682},
+                    {city: "Helsingborg", population: 113828},
+                    {city: "Jönköping", population: 100579}
             ]},
             {
                 country: "Norway",
                 cities:
                 [
-                    {city: "Oslo", population: 634463},
+                    {city: "Oslo", population: 702543},
                     {city: "Bergen", population: 278121},
                     {city: "Trondheim", population: 190464},
                     {city: "Stavanger", population: 130754},
                     {city: "Kristiansand", population: 90562},
-                    {city: "Fredrikstad", population: 80977}
+                    {city: "Fredrikstad", population: 80977},
+                    {city: "Sandnes", population: 78624},
+                    {city: "Tromsø", population: 72681},
+                    {city: "Skien", population: 72537},
+                    {city: "Drammen", population: 64597}
             ]},
             {
                 country: "Finland",
@@ -116,7 +127,11 @@ export var countries = [{
                     {city: "Tampere", population: 234441},
                     {city: "Vantaa", population: 226160},
                     {city: "Oulu", population: 202753},
-                    {city: "Turku", population: 190935}
+                    {city: "Turku", population: 190935},
+                    {city: "Jyväskylä", population: 140,812},
+                    {city: "Lahti", population: 119999},
+                    {city: "Kuopio", population: 118434},
+                    {city: "Pori", population: 84566}
             ]},
             {
                 country: "Poland",
@@ -142,7 +157,11 @@ export var countries = [{
                     {city: "Linz", population: 207247},
                     {city: "Salzburg", population: 155331},
                     {city: "Innsbruck", population: 130585},
-                    {city: "Klagenfurt am Wörthersee", population: 102618}
+                    {city: "Klagenfurt am Wörthersee", population: 102618},
+                    {city: "Villach", population: 64071},
+                    {city: "Wels", population: 63181},
+                    {city: "Sankt Pölten", population: 56360},
+                    {city: "Dornbirn", population: 50360}
             ]},
             {
                 country: "Switzerland",
@@ -153,7 +172,11 @@ export var countries = [{
                     {city: "Basel", population: 178120},
                     {city: "Lausanne", population: 140202},
                     {city: "Bern", population: 134794},
-                    {city: "Winterthur", population: 114220}
+                    {city: "Winterthur", population: 114220},
+                    {city: "Lucerne", population: 82620},
+                    {city: "St. Gallen", population: 76213},
+                    {city: "Lugano", population: 62315},
+                    {city: "Biel/Bienne", population: 55206}
             ]},
             {
                 country: "Greece",
@@ -164,7 +187,11 @@ export var countries = [{
                     {city: "Patras", population: 167446},
                     {city: "Piraeus", population: 163688},
                     {city: "Larissa", population: 144651},
-                    {city: "Heraklion", population: 140730}
+                    {city: "Heraklion", population: 140730},
+                    {city: "Peristeri", population: 139981},
+                    {city: "Kallithea", population: 100641},
+                    {city: "Acharnes", population: 99346},
+                    {city: "Kalamaria", population: 91279}
             ]},
             {
                 country: "England",
@@ -175,7 +202,14 @@ export var countries = [{
                     {city: "Manchester", population: 553230},
                     {city: "Birmingham", population: 1149000},
                     {city: "Leeds", population: 792525},
-                    {city: "Sheffield", population: 584028}
+                    {city: "Sheffield", population: 584028},
+                    {city: "Nottingham", population: 321500},
+                    {city: "Coventry  ", population: 359262},
+                    {city: "Birkenhead", population: 325264},
+                    {city: "Plymouth", population: 260203},
+                    {city: "Dudley", population: 199059},
+                    {city: "Swindon", population: 185609},
+                    {city: "Crawley", population: 180508}
             ]},
             {
                 country: "Ukraine",
@@ -186,7 +220,12 @@ export var countries = [{
                     {city: "Odesa", population: 1015826},
                     {city: "Dnipro", population: 980948},
                     {city: "Donetsk", population: 905364},
-                    {city: "Zaporizhzhia", population: 722713}
+                    {city: "Zaporizhzhia", population: 722713},
+                    {city: "Lviv", population: 721510},
+                    {city: "Kryvyi Rih", population: 612750},
+                    {city: "Mykolaiv", population: 476101},
+                    {city: "Sevastopol", population: 464349},
+                    {city: "Mariupol", population: 431859}
             ]},
             {
                 country: "Netherlands",
@@ -197,7 +236,11 @@ export var countries = [{
                     {city: "The Hague", population: 552995},
                     {city: "Utrecht", population: 361924},
                     {city: "Eindhoven", population: 238478},
-                    {city: "Groningen", population: 234649}
+                    {city: "Groningen", population: 234649},
+                    {city: "Almere Stad", population: 176432},
+                    {city: "Breda", population: 167673},
+                    {city: "Nijmegen", population: 158732},
+                    {city: "Enschede", population: 153655}
             ]},
             {
                 country: "Belgium",
