@@ -251,7 +251,11 @@ export var countries = [{
                     {city: "Charleroi", population: 201256},
                     {city: "Liège", population: 197885},
                     {city: "Brussels", population: 176545},
-                    {city: "Bruges", population: 118187}
+                    {city: "Bruges", population: 118187},
+                    {city: "Namur", population: 110628},
+                    {city: "Leuven", population: 100291},
+                    {city: "Mons", population: 95220},
+                    {city: "Mechelen", population: 85665}
             ]},
             {
                 country: "Estonia",
@@ -262,7 +266,11 @@ export var countries = [{
                     {city: "Narva", population: 59049},
                     {city: "Pärnu", population: 40005},
                     {city: "Kohtla-Järve", population: 37198},
-                    {city: "Viljandi", population: 17602}
+                    {city: "Viljandi", population: 17602},
+                    {city: "Rakvere", population: 15413},
+                    {city: "Maardu", population: 15189},
+                    {city: "Kuressaare", population: 13276},
+                    {city: "Sillamäe", population: 12989}
             ]},
             {
                 country: "Liechtenstein",
@@ -270,6 +278,7 @@ export var countries = [{
                 [
                     {city: "Ruggell", population: 2322},
                     {city: "Schellenberg", population: 1107},
+                    {city: "Gamprin", population: 1690}
             ]},
             {
                 country: "Bulgaria",
@@ -280,7 +289,11 @@ export var countries = [{
                     {city: "Varna", population: 334870},
                     {city: "Burgas", population: 200271},
                     {city: "Ruse", population: 149642},
-                    {city: "Stara Zagora", population: 138272}
+                    {city: "Stara Zagora", population: 138272},
+                    {city: "Pleven", population: 106954},
+                    {city: "Sliven", population: 91620},
+                    {city: "Dobrich", population: 91030},
+                    {city: "Shumen", population: 80855}
             ]},
             {
                 country: "Hungary",
@@ -291,7 +304,11 @@ export var countries = [{
                     {city: "Szeged", population: 157372},
                     {city: "Miskolc", population: 147480},
                     {city: "Pécs", population: 138420},
-                    {city: "Győr", population: 132111}
+                    {city: "Győr", population: 132111},
+                    {city: "Nyíregyháza", population: 115521},
+                    {city: "Kecskemét", population: 108817},
+                    {city: "Székesfehérvár", population: 94893},
+                    {city: "Szombathely", population: 77970}
             ]},
             {
                 country: "Romania",
@@ -302,7 +319,11 @@ export var countries = [{
                     {city: "Timișoara", population: 319279},
                     {city: "Iași", population: 290422},
                     {city: "Constanța", population: 283872},
-                    {city: "Craiova", population: 269506}
+                    {city: "Craiova", population: 269506},
+                    {city: "Brașov", population: 253200},
+                    {city: "Galați", population: 249432},
+                    {city: "Ploiești", population: 209945},
+                    {city: "Oradea", population: 196367}
             ]},   
             {
                 country: "Ireland",
@@ -313,7 +334,11 @@ export var countries = [{
                     {city: "Cork", population: 124391},
                     {city: "Limerick", population: 94192},
                     {city: "Waterford", population: 53504},
-                    {city: "Kilkenny", population: 26512}
+                    {city: "Kilkenny", population: 26512},
+                    {city: "Dundalk", population: 37816},
+                    {city: "Drogheda", population: 38578},
+                    {city: "Navan", population: 28559},
+                    {city: "Bray", population: 31872}
             ]},   
             {
                 country: "Scotland",
@@ -325,7 +350,11 @@ export var countries = [{
                     {city: "Dundee", population: 148210},
                     {city: "Aberdeen", population: 210000},
                     {city: "Perth", population: 47350},
-                    {city: "Greenock", population: 41280}
+                    {city: "Greenock", population: 41280},
+                    {city: "Paisley", population: 77270},
+                    {city: "East Kilbride", population: 75310},
+                    {city: "Livingston", population: 56840},
+                    {city: "Dunfermline", population: 54990}
             ]},   
             {
                 country: "Serbia",
@@ -336,7 +365,11 @@ export var countries = [{
                     {city: "Niš", population: 260000},
                     {city: "Kragujevac", population: 150850},
                     {city: "Subotica", population: 103985},
-                    {city: "Kraljevo", population: 67142}
+                    {city: "Kraljevo", population: 67142},
+                    {city: "Leskovac", population: 144206},
+                    {city: "Pančevo", population: 123414},
+                    {city: "Čačak", population: 115337},
+                    {city: "Šabac", population: 115884}
             ]},   
             {
                 country: "Croatia",
