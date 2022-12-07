@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CityQuiz/static/css/main.ffe811a3.css",
-    "main.js": "/CityQuiz/static/js/main.f4f974db.js",
+    "main.css": "/CityQuiz/static/css/main.ceb7ec06.css",
+    "main.js": "/CityQuiz/static/js/main.51950dc5.js",
     "index.html": "/CityQuiz/index.html",
-    "main.ffe811a3.css.map": "/CityQuiz/static/css/main.ffe811a3.css.map",
-    "main.f4f974db.js.map": "/CityQuiz/static/js/main.f4f974db.js.map"
+    "main.ceb7ec06.css.map": "/CityQuiz/static/css/main.ceb7ec06.css.map",
+    "main.51950dc5.js.map": "/CityQuiz/static/js/main.51950dc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffe811a3.css",
-    "static/js/main.f4f974db.js"
+    "static/css/main.ceb7ec06.css",
+    "static/js/main.51950dc5.js"
   ]
 }
